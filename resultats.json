@@ -1,0 +1,10 @@
+{
+    "nb_connexions_total": 5440,
+    "top_port_destination": 443,
+    "repartition_actions": {
+        "ALLOW": 4702,
+        "DENY": 738
+    },
+    "type_appareil_le_plus_actif": "capteur_IoT",
+    "ip_source_la_plus_bloquee": "192.168.1.99"
+}
